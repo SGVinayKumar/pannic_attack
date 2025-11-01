@@ -96,7 +96,5 @@ To explore or modify this project, ensure you have:
 
 This project demonstrates how data visualization and analytics can uncover meaningful patterns in mental health data. By leveraging Power BI and DAX, we’ve built a dashboard that can support awareness, early detection, and intervention strategies for panic attacks.
 
----
 
-Let me know if you'd like this translated into Kannada or want help designing a LinkedIn post to showcase your project!
-# pannic_attack
+
